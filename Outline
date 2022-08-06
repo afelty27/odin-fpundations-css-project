@@ -1,0 +1,22 @@
+What do I need (structure)
+
+
+
+
+Four large rows of differnt colors (flex)
+
+Row 1:
+    Header
+        two parts centered flexed left and right
+            right part is three links (no styles)
+    Content
+        two parts: left and right  
+            Left: text and button. All flexed by rows
+            Right: image
+Row 2: 
+    Content
+Row 3: 
+    Content
+Row 4:
+    Box with content in it (two parts)
+        
